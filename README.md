@@ -23,7 +23,7 @@ Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-F2BA22?style=for-the-badge&logo=symfony&logoColor=black)
 
-## Mes buts
+**Mes buts** </br>
 
 Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur la fin de ma formation et les projets qui vont avec!
 
