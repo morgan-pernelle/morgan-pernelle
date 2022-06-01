@@ -3,7 +3,7 @@
 
 <img align='right' src="https://i.imgur.com/ESHUjfi.jpg" width="230" />
 
-Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines!
+Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines !
 
 **Qu'est-ce que j'ai appris?** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. 
 ![Symfony](https://img.shields.io/badge/Symfony-F2BA22?style=for-the-badge&logo=symfony&logoColor=black)
 
 **Mes buts** </br>
-Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur la fin de ma formation et les projets qui vont avec!
+Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur la fin de ma formation et les projets qui vont avec !
 
 
 
