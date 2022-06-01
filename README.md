@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/morgan-pernelle/morgan-pernelle/blob/master/img/85439798.jpg)
+![Cover](https://github.com/morgan-pernelle/morgan-pernelle/img/85439798.jpg)
 
 <!--
 **morgan-pernelle/morgan-pernelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
