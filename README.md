@@ -17,7 +17,7 @@ Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. 
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 </br>
 
-**Qu'est-ce que j'aimerai apprendre** </br>
+**Qu'est-ce que j'aimerai apprendre?** </br>
 ![Angular](https://img.shields.io/badge/Angular-ff4444?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
