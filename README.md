@@ -1,7 +1,7 @@
 ## Hello there 👋 
 ###### *Ben Kenobi*
 
-<img align='right' src="https://i.imgur.com/ESHUjfi.jpg" width="230" />
+<img align='right' src="https://i.imgur.com/W4FO3jl.png" width="230" />
 
 Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines !
 
