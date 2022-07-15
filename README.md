@@ -3,7 +3,7 @@
 
 <img align='right' src="https://i.imgur.com/W4FO3jl.png" width="230" />
 
-Je m'apelle Morgan et je suis étudiant développeur web frontend chez O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines !
+Je m'apelle Morgan et je suis développeur web frontend sortant de la formation O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines !
 
 **Qu'est-ce que j'ai appris?** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
