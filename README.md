@@ -24,7 +24,7 @@ Je m'apelle Morgan et je suis développeur web frontend sortant de la formation 
 ![Symfony](https://img.shields.io/badge/Symfony-F2BA22?style=for-the-badge&logo=symfony&logoColor=black)
 
 **Mes buts** </br>
-Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur la fin de ma formation et les projets qui vont avec !
+Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur mon Titre Professionnel, mes projets, et ma recherche d'emploi !
 
 
 
