@@ -1,5 +1,4 @@
-## Hello there 👋 
-###### *Ben Kenobi*
+## Hello there 👋
 
 <img align='right' src="https://i.imgur.com/W4FO3jl.png" width="230" />
 
