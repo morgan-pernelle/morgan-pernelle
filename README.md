@@ -7,6 +7,7 @@ Je m'apelle Morgan et je suis développeur web frontend sortant de la formation 
 **Qu'est-ce que j'ai appris?** </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![React.JS](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -21,7 +22,6 @@ Je m'apelle Morgan et je suis développeur web frontend sortant de la formation 
 **Je suis en train d'apprendre** </br>
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
