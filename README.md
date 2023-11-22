@@ -14,17 +14,15 @@ Je m'apelle Morgan et je suis développeur web frontend sortant de la formation 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-1D2327?style=for-the-badge&logo=wordpress&logoColor=white)
-![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </br>
 
 **Je suis en train d'apprendre** </br>
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Qu'est-ce que j'aimerai apprendre?** </br>
 ![Angular](https://img.shields.io/badge/Angular-ff4444?style=for-the-badge&logo=angular&logoColor=white)
@@ -32,7 +30,7 @@ Je m'apelle Morgan et je suis développeur web frontend sortant de la formation 
 ![Symfony](https://img.shields.io/badge/Symfony-F2BA22?style=for-the-badge&logo=symfony&logoColor=black)
 
 **Mes buts** </br>
-Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur. Pour l'instant, je dois me concentrer sur mon Titre Professionnel, mes projets, et ma recherche d'emploi !
+Mon but est de devenir un développeur solide en frontend et apprendre le backend pour être à l'aise en full stack. Je veux pouvoir construire des sites dynamiques proposant une expérience unique à l'utilisateur.
 
 
 
