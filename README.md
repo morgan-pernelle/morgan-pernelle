@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<img align='right' src="https://i.imgur.com/W4FO3jl.png" width="230" />
+<img align='right' src="https://i.imgur.com/8yMQZk5.png" width="230" />
 
 Je m'apelle Morgan et je suis développeur web frontend sortant de la formation O'Clock. Après avoir été bartender pendant 6 ans, je suis retourné derrière les écrans pour parler aux machines !
 
